@@ -4,7 +4,7 @@
 Hi! I´m a Computer Science student at FURB. I´ve been coding since 2018 and I started attending University in 2020. One of my main focus 
 for the future is to learn more about AI!
 
-### Technology Subjects that I'm studyin
+### Technology Subjects that I'm studying
 - Java (OOP)
 - Python (Django)
 - SQL (MySQL)
