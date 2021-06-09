@@ -7,7 +7,8 @@ for the future is to learn more about AI!
 ### Technology Subjects that I'm studying
 - Java (OOP)
 - Python (Django)
-- SQL (MySQL)
+- VueJS
+- SQL (PostgreSQL)
 
 ### Web Presence
 [LinkedIn](https://www.linkedin.com/in/bernardo-de-melo-matuchewski-2704/)
