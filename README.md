@@ -16,6 +16,7 @@ I have a total of two years of experience, which in my first year I worked with 
 
 ### Web Presence
 [LinkedIn](https://www.linkedin.com/in/bernardo-de-melo-matuchewski-2704/)
+
 [Personal Website](https://bmatuchewski.com/)
 <!--
 **BerPGR/BerPGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
