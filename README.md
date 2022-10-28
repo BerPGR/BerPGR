@@ -22,5 +22,5 @@ My main goal in the programming area is to become a great mobile developer. Righ
 <div><a href="https://github.com/berpgr"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berpgr&layout=compact&langs_count=7&theme=dracula"/><img height="180em" src="https://github-readme-stats.vercel.app/api?username=berpgr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
   
   
-[Snake animation](https://github.com/berpgr/berpgr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/berpgr/berpgr/blob/output/github-contribution-grid-snake.svg)
 
