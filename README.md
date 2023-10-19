@@ -2,7 +2,7 @@
 
 ### About me
 Hey! How's it going?
-My name is Bernardo, AKA Benny, Currently 20 years old, born in Blumenau, Santa Catarina, Brazil and living in Brasília, Distrito Federal, Brazil. I've finished my certificate programm in Software Development at SENAI - Serviço Nacional de Aprendizagem Industrial, and I'm continuing my bachelor's degree in Computer Science at UDF - Centro Universitário do Distrito Federal.
+My name is Bernardo, AKA Benny, Currently 21 years old, born in Blumenau, Santa Catarina, Brazil and living in Brasília, Distrito Federal, Brazil. I've finished my certificate programm in Software Development at SENAI - Serviço Nacional de Aprendizagem Industrial, and I'm continuing my bachelor's degree in Computer Science at UDF - Centro Universitário do Distrito Federal.
 
 
 
