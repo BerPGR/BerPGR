@@ -2,7 +2,7 @@
  <ul dsplay="inline-block">
     <li style="vertical-align:top;"> I'm 22y</li>
     <li> 🖥 I'm a computer science student.
-    <li> 7th Semester. ⌛7/8
+    <li> 8th Semester. ⌛8/8
     <li> 🌱 I’m currently learning React, Flutter and Kotlin.
     <li> 🟢🟡Brazilian 🇧🇷
 </ul>
