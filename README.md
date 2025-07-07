@@ -33,7 +33,7 @@
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nuxtjs,vue,vuetify,pinia,sass,nodejs,express,postman,spring,java,mongodb,postgresql,html,css,javascript,typescript,kotlin,python,git,github" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nextjs,nuxtjs,vue,vuetify,pinia,sass,nodejs,express,postman,spring,java,laravel,php,mongodb,postgresql,html,css,javascript,typescript,kotlin,python,git,github" />
   </a>
 </p>
 
