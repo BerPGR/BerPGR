@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=3000&pause=500&color=3D96F7&background=4BFF1B00&multiline=true&random=false&width=600&height=100&lines=Hi%2C+I'm+Benny+Matuchewski;I'm+a+Software+Engineer" alt="Typing SVG" /></a>
  <ul dsplay="inline-block">
-    <li style="vertical-align:top;"> I'm 22y</li>
+    <li style="vertical-align:top;"> I'm 23 y.o.</li>
     <li> 🖥 Bachelor's degree in Computer Science.
-    <li> 🌱 I’m currently learning React, Flutter and Kotlin.
+    <li> 🌱 I’m currently learning React, PHP & Laravel.
     <li> 🟢🟡Brazilian 🇧🇷
 </ul>
  
